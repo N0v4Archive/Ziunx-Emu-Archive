@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d új értesítés</item>
+        <item quantity="other">%d új értesítés</item>
+    </plurals>
+    <plurals name="saves_import_failed">
+        <item quantity="one">%dmentés importálása sikertelen</item>
+        <item quantity="other">%dmentés importálása sikertelen</item>
+    </plurals>
+    <plurals name="saves_import_success">
+        <item quantity="one">%dmentés sikeresen importálva</item>
+        <item quantity="other">%dmentés sikeresen importálva</item>
+    </plurals>
+</resources>

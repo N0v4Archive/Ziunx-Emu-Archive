@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/deep_scan_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_gravity="start|center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/deep_scan"
+            android:layout_weight="1"
+            android:textAlignment="viewStart"
+            style="@style/TextAppearance.Material3.BodyMedium"/>
+        <com.google.android.material.checkbox.MaterialCheckBox
+            android:id="@+id/deep_scan_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

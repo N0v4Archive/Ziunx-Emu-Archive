@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:ordering="together">
+    <objectAnimator
+        android:interpolator="@drawable/res_0x7f080053_stick_one_direction_anim__2"
+        android:duration="267"
+        android:startOffset="0"
+        android:propertyName="translateXY"
+        android:pathData="M 500,500C 500,500 364,500 364,500"
+        android:propertyXName="translateX"
+        android:propertyYName="translateY"/>
+    <objectAnimator
+        android:interpolator="@drawable/res_0x7f080054_stick_one_direction_anim__3"
+        android:duration="234"
+        android:startOffset="267"
+        android:propertyName="translateXY"
+        android:pathData="M 364,500C 364,500 364,500 364,500"
+        android:propertyXName="translateX"
+        android:propertyYName="translateY"/>
+    <objectAnimator
+        android:interpolator="@drawable/res_0x7f080055_stick_one_direction_anim__4"
+        android:duration="133"
+        android:startOffset="501"
+        android:propertyName="translateXY"
+        android:pathData="M 364,500C 364,500 525,500 525,500"
+        android:propertyXName="translateX"
+        android:propertyYName="translateY"/>
+    <objectAnimator
+        android:interpolator="@drawable/res_0x7f080056_stick_one_direction_anim__5"
+        android:duration="100"
+        android:startOffset="634"
+        android:propertyName="translateXY"
+        android:pathData="M 525,500C 525,500 500,500 500,500"
+        android:propertyXName="translateX"
+        android:propertyYName="translateY"/>
+</set>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:color="@color/m3_sys_color_dynamic_light_background"
+        android:alpha="@dimen/m3_sys_motion_easing_emphasized_accelerate_control_x1"/>
+</selector>

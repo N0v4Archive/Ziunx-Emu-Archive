@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">مفعّلة</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="abort_button">إلغاء</string>
+    <string name="about">حول</string>
+    <string name="about_app_description">محاكي سويتش مفتوح المصدر</string>
+    <string name="about_description">بناء الإصدار، والاعتمادات، وأكثر من ذلك</string>
+    <string name="add_game_folder">إضافة مجلد اللعبة</string>
+    <string name="add_games">إضافة ألعاب</string>
+    <string name="add_games_description">حدد مجلد الألعاب الخاص بك</string>
+    <string name="add_games_warning">تخطي تحديد مجلد الألعاب؟</string>
+    <string name="add_games_warning_description">لن يتم عرض الألعاب في قائمة الألعاب إذا لم يتم تحديد مجلد</string>
+    <string name="add_games_warning_help">https://Ziunx-emu.org/help/quickstart/#dumping-games</string>
+    <string name="add_ons">الإضافات</string>
+    <string name="add_ons_description">DLCالتعديلات والتحديثات و</string>
+    <string name="addon_installed_successfully">تم تثبيت الملحق بنجاح</string>
+    <string name="addon_notice">إشعار إضافي مهم</string>
+    <string name="addons_game">إضافات: %1$s</string>
+    <string name="advanced_settings">إعدادات متقدمة</string>
+    <string name="advanced_settings_game">إعدادات متقدمة: %1$s</string>
+    <string name="album_applet">الألبوم</string>
+    <string name="album_applet_description">شاهد الصور المخزنة في مجلد لقطات شاشة المستخدم باستخدام عارض صور النظام</string>
+    <string name="anti_aliasing_fxaa">FXAA</string>
+    <string name="anti_aliasing_none">لا شيء</string>
+    <string name="anti_aliasing_smaa">SMAA</string>
+    <string name="applets">قائمة التطبيقات المصغرة</string>
+    <string name="applets_description">قم بتشغيل تطبيقات النظام باستخدام فيرموير المثبت</string>
+    <string name="applets_error_applet">التطبيق المصغر غير متوفر</string>
+    <string name="applets_error_firmware">فيرموير غير مثبت</string>
+    <string name="are_you_interested">هل انت مهتم؟</string>
+    <string name="audio_output_engine">محرك الإخراج</string>
+    <string name="audio_volume">مستوى الصوت</string>
+    <string name="audio_volume_description">يحدد مستوى إخراج الصوت</string>
+    <string name="auto">تلقائي</string>
+    <string name="back">عودة</string>
+    <string name="bottomsheet_action_collapse">تصغير البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_drag_handle_clicked">تم النقر مرّتين على مقبض السحب.</string>
+    <string name="bottomsheet_drag_handle_content_description">مقبض السحب</string>
+    <string name="build">البناء</string>
+    <string name="building_shaders">بناء التظليل</string>
+    <string name="cabinet_applet_description">تحرير وحذف البيانات المخزنة على أميبو</string>
+    <string name="cabinet_game_data_eraser">ممحاة بيانات اللعبة</string>
+    <string name="cabinet_nickname_and_owner">إعدادات الاسم المستعار والمالك</string>
+    <string name="call_notification_answer_action">ردّ</string>
+    <string name="call_notification_answer_video_action">فيديو</string>
+    <string name="call_notification_decline_action">رفض</string>
+    <string name="call_notification_hang_up_action">قطع الاتصال</string>
+    <string name="call_notification_incoming_text">مكالمة واردة</string>
+    <string name="call_notification_ongoing_text">مكالمة جارية</string>
+    <string name="call_notification_screening_text">يتم فحص المكالمة الواردة</string>
+    <string name="cancelling">إلغاء</string>
+    <string name="change_app_theme">تغيير سمة التطبيق</string>
+    <string name="change_theme_mode">تغيير وضع السمة</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="clear">مسح</string>
+    <string name="clear_shader_cache">مسح ذاكرة التخزين المؤقت للتظليل</string>
+    <string name="clear_shader_cache_description">يزيل جميع التظليلات التي تم إنشاؤها أثناء لعب هذه اللعبة</string>
+    <string name="clear_shader_cache_warning_description">سوف تواجه المزيد من التأتأة مع تجديد ذاكرة التخزين المؤقت للتظليل</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="cleared_shaders_successfully">تم مسح التظليل بنجاح</string>
+    <string name="close">إغلاق</string>
+    <string name="content_install_notice">إشعار تثبيت المحتوى</string>
+    <string name="content_install_notice_description">المحتوى الذي حددته لا يتطابق مع هذه اللعبة.هل تريد التثبيت على أية حال؟</string>
+    <string name="continue_button">استمر</string>
+    <string name="contributors">المساهمين</string>
+    <string name="contributors_description">مصنوع من فريق يوزو</string>
+    <string name="contributors_link">https://github.com/Zinux-emu/Ziunx/graphs/contributors</string>
+    <string name="copied_to_clipboard">نسخ إلى الحافظة</string>
+    <string name="copy">نسخ</string>
+    <string name="copy_details">نسخ التفاصيل</string>
+    <string name="cpu">وحدة المعالج المركزية</string>
+    <string name="cpu_accuracy">دقة وحدة المعالجة المركزية</string>
+    <string name="cpu_accuracy_accurate">دقه</string>
+    <string name="cpu_accuracy_paranoid">Paranoid (بطيء)</string>
+    <string name="cpu_accuracy_unsafe">غير آمن</string>
+    <string name="cpu_backend_dynarmic">Dynarmic (بطيء)</string>
+    <string name="cpu_backend_nce">تنفيذ التعليمات البرمجية الأصلية (NCE)</string>
+    <string name="cpu_debug_mode">تصحيح أخطاء وحدة المعالجة المركزية</string>
+    <string name="cpu_debug_mode_description">يضع وحدة المعالجة المركزية في وضع التصحيح البطيء.</string>
+    <string name="cubeb">cubeb</string>
+    <string name="custom">مخصص</string>
+    <string name="custom_driver_not_supported">برامج التشغيل المخصصة غير مدعومة</string>
+    <string name="custom_driver_not_supported_description">تحميل برنامج التشغيل المخصص غير معتمد حاليًا لهذا الجهاز.\nحدد هذا الخيار مرة أخرى في المستقبل لمعرفة ما إذا تمت إضافة الدعم!</string>
+    <string name="cutting_edge_features">ميزات متطورة</string>
+    <string name="deep_scan">فحص عميق</string>
+    <string name="delete">حذف</string>
+    <string name="delete_save_data">حذف حفظ البيانات</string>
+    <string name="delete_save_data_description">يزيل كافة البيانات المحفوظة الخاصة بهذه اللعبة</string>
+    <string name="delete_save_data_warning_description">يؤدي هذا إلى إزالة كافة البيانات المحفوظة لهذه اللعبة بشكل لا يمكن استرداده. هل أنت متأكد أنك تريد الاستمرار؟</string>
+    <string name="developer">المطور</string>
+    <string name="done">إنهاء</string>
+    <string name="done_description">أنت جاهز تمامًا. استمتع بألعابك!</string>
+    <string name="driver_already_installed">برنامج التشغيل مثبت بالفعل</string>
+    <string name="dumping_keys_quickstart_link">https://Ziunx-emu.org/help/quickstart/#dumping-decryption-keys</string>
+    <string name="early_access">الوصول المبكر</string>
+    <string name="early_access_benefits">مزايا الوصول المبكر</string>
+    <string name="early_access_updates">الوصول المبكر إلى التحديثات</string>
+    <string name="edit">حرر</string>
+    <string name="empty_gamelist">لم يتم العثور على ملفات أو لم يتم تحديد مجلد الألعاب حتى الآن.</string>
+    <string name="emulated_language">لغة المحاكاة</string>
+    <string name="emulated_region">المنطقة التي تمت محاكاتها</string>
+    <string name="emulation_control_adjust">ضبط التراكب</string>
+    <string name="emulation_control_opacity">الشفافية</string>
+    <string name="emulation_control_scale">الحجم</string>
+    <string name="emulation_done">إنهاء</string>
+    <string name="emulation_dpad_slide">مزلاق الأسهم</string>
+    <string name="emulation_exit">الخروج من المحاكاة</string>
+    <string name="emulation_fps_counter">عداد إطار/ثانية</string>
+    <string name="emulation_haptics">الاهتزازات الديناميكية</string>
+    <string name="emulation_input_overlay">خيارات التراكب</string>
+    <string name="emulation_pause">إيقاف المحاكاة مؤقتًا</string>
+    <string name="emulation_rel_stick_center">مركز العصا النسبي</string>
+    <string name="emulation_show_overlay">عرض التراكب</string>
+    <string name="emulation_toggle_all">الكل</string>
+    <string name="emulation_toggle_controls">عناصر التحكم</string>
+    <string name="emulation_touch_overlay_edit">تحرير التراكب</string>
+    <string name="emulation_touch_overlay_reset">إعادة تعيين التراكب</string>
+    <string name="emulation_unpause">إلغاء الإيقاف المؤقت للمحاكاة</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="error_saving">خطأ في حفظ %1$s.ini: %2$s</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
+    <string name="export">تصدير</string>
+    <string name="export_failed">فشل التصدير</string>
+    <string name="export_save_failed">فشل تصدير الحفظ</string>
+    <string name="export_saves">تصدير</string>
+    <string name="export_success">تم التصدير بنجاح</string>
+    <string name="exporting_user_data">جاري تصدير بيانات المستخدم</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="fastmem">Fastmem</string>
+    <string name="fatal_error">خطا فادح</string>
+    <string name="firmware_installed_failure">فشل تثبيت فيرموير</string>
+    <string name="firmware_installed_success">تم تثبيت فيرموير بنجاح</string>
+    <string name="firmware_installing">تثبيت فيرموير</string>
+    <string name="folder_already_added">تمت إضافة هذا المجلد بالفعل</string>
+    <string name="frame_limit_enable">الحد من السرعة</string>
+    <string name="frame_limit_enable_description">يحد من سرعة المحاكاة بنسبة محددة من السرعة العادية</string>
+    <string name="frame_limit_slider">الحد من السرعة في المئة</string>
+    <string name="frame_limit_slider_description">يحدد النسبة المئوية للحد من سرعة المحاكاة. 100% هي السرعة الطبيعية. ستؤدي القيم الأعلى أو الأدنى إلى زيادة أو تقليل حد السرعة.</string>
+    <string name="game_folder_properties">خصائص مجلد اللعبة</string>
+    <string name="game_folders">مجلدات اللعبة</string>
+    <string name="gameid_saved">الإعدادات المحفوظة لـ %1$s</string>
+    <string name="gamepad_d_pad">الأسهم</string>
+    <string name="gamepad_home">شاشة الرئيسية</string>
+    <string name="gamepad_left_stick">العصا اليسرى</string>
+    <string name="gamepad_right_stick">العصا اليمنى</string>
+    <string name="gamepad_screenshot">لقطة شاشة</string>
+    <string name="games">الألعاب</string>
+    <string name="games_description">حدد مجلد &lt;b&gt;العابك&lt;/b&gt; من الزر ادناه.</string>
+    <string name="games_dir_selected">تم تحديد مجلد الألعاب</string>
+    <string name="get_early_access">احصل على الوصول المبكر</string>
+    <string name="get_early_access_description">الميزات المتطورة، والوصول المبكر إلى التحديثات، وأكثر من ذلك</string>
+    <string name="get_started">لنبدأ</string>
+    <string name="github_link">https://github.com/Ziunx-emu</string>
+    <string name="give_permission">منح الإذن</string>
+    <string name="global">عالمي</string>
+    <string name="gpu">وحدة معالجة الرسومات</string>
+    <string name="gpu_driver_manager">GPU مدير برنامج تشغيل</string>
+    <string name="helping_game_preservation">المساعدة في الحفاظ على اللعبة</string>
+    <string name="home_games">الألعاب</string>
+    <string name="home_search">البحث</string>
+    <string name="home_search_games">البحث عن ألعاب</string>
+    <string name="home_settings">الإعدادات</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="import_complete">اكتمل الاستيراد</string>
+    <string name="import_export_saves_description">استيراد أو تصدير ملفات الحفظ</string>
+    <string name="import_failed">فشل الاستيراد</string>
+    <string name="import_save_warning">استيراد حفظ البيانات</string>
+    <string name="import_save_warning_description">سيؤدي هذا إلى استبدال جميع بيانات الحفظ الموجودة بالملف المقدم. هل أنت متأكد أنك تريد الاستمرار؟</string>
+    <string name="import_saves">استيراد</string>
+    <string name="import_user_data">استيراد بيانات المستخدم</string>
+    <string name="importing_user_data">جاري استيراد بيانات المستخدم</string>
+    <string name="info">معلومات</string>
+    <string name="info_description">معرف البرنامج، المطور، الإصدار</string>
+    <string name="ini_saved">الإعدادات المحفوظة</string>
+    <string name="install">تثبيت</string>
+    <string name="install_amiibo_keys">تثبيت مفاتيح أميبو</string>
+    <string name="install_amiibo_keys_description">مطلوب لاستخدام أميبو في اللعبة</string>
+    <string name="install_amiibo_keys_failure_extension_description">وحاول مرة أخر bin تحقق من أن ملف المفاتيح له امتداد</string>
+    <string name="install_firmware">تثبيت فيرموير</string>
+    <string name="install_firmware_description">يجب أن يكون فيرموير في أرشيف مضغوط وهو ضروري لتشغيل بعض الألعاب</string>
+    <string name="install_game_content">تثبيت محتوى اللعبة</string>
+    <string name="install_game_content_description">DLC قم بتثبيت تحديثات اللعبة أو</string>
+    <string name="install_game_content_failure_base">لا يُسمح بتثبيت الألعاب الأساسية لتجنب التعارضات المحتملة.</string>
+    <string name="install_game_content_help_link">https://Ziunx-emu.org/help/quickstart/#dumping-installed-updates</string>
+    <string name="install_game_content_success_install">%1$d تم التثبيت بنجاح</string>
+    <string name="install_game_content_success_overwrite">%1$d تمت الكتابة فوقه بنجاح</string>
+    <string name="install_gpu_driver">GPU تثبيت برنامج تشغيل</string>
+    <string name="install_gpu_driver_description">قم بتثبيت برامج تشغيل بديلة للحصول على أداء أو دقة أفضل</string>
+    <string name="install_keys_failure_description">الملف المحدد غير صحيح أو تالف. يرجى إعادة المفاتيح الخاصة بك</string>
+    <string name="install_keys_success">تم تثبيت المفاتيح بنجاح</string>
+    <string name="install_prod_keys">تثبيت prod.keys</string>
+    <string name="install_prod_keys_description">مطلوب لفك تشفير ألعاب البيع بالتجزئة</string>
+    <string name="install_prod_keys_failure_extension_description">وحاول مرة أخر keys تحقق من أن ملف المفاتيح له امتداد</string>
+    <string name="install_prod_keys_warning">تخطي إضافة المفاتيح؟</string>
+    <string name="install_prod_keys_warning_description">مطلوب مفاتيح صالحة لمحاكاة ألعاب البيع بالتجزئة. ستعمل تطبيقات البيرة المنزلية فقط إذا تابعت</string>
+    <string name="install_prod_keys_warning_help">https://Ziunx-emu.org/help/quickstart/#guide-introduction</string>
+    <string name="installing_driver">جاري تثبيت برنامج التشغيل…</string>
+    <string name="installing_game_content">جاري تثبيت المحتوى</string>
+    <string name="invalid_directory">مجلد غير صالح</string>
+    <string name="invalid_keys_error">مفاتيح التشفير غير صالحة</string>
+    <string name="invalid_keys_file">تم تحديد ملف مفاتيح غير صالح</string>
+    <string name="invalid_yuzu_backup">نسخة احتياطية يوزو غير صالحة</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="keys">المفاتيح</string>
+    <string name="keys_description">اختر ملف &lt;b&gt;prod.keys&lt;/b&gt; من الزر ادناه</string>
+    <string name="launch_options">تشغيل الإعدادات</string>
+    <string name="learn_more">معرفة المزيد</string>
+    <string name="license_fidelityfx_fsr_description">AMD ترقية عالية الجودة من</string>
+    <string name="licenses">التراخيص</string>
+    <string name="licenses_description">المشاريع التي تجعل تطبيق يوزو لنظام أندرويد ممكنًا</string>
+    <string name="load_settings">جاري تحميل الإعدادات</string>
+    <string name="loader_error_encrypted">الخاص بك ROM تم تشفير</string>
+    <string name="loader_error_file_not_found">غير موجود ROM ملف</string>
+    <string name="loader_error_invalid_format">ROM غير قادر على تحميل</string>
+    <string name="loader_error_video_core">حدث خطأ أثناء تهيئة مركز الفيديو</string>
+    <string name="loading">جاري التحميل</string>
+    <string name="manage_game_folders">إدارة مجلدات اللعبة</string>
+    <string name="manage_save_data">إدارة حفظ البيانات</string>
+    <string name="manage_save_data_description">حفظ البيانات التي تم العثور عليها. يرجى اختيار أحد الخيارات التالية</string>
+    <string name="manage_yuzu_data">إدارة بيانات يوزو</string>
+    <string name="manage_yuzu_data_description">استيراد/تصدير فيرموير والمفاتيح وبيانات المستخدم والمزيد</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_24h_suffix">%1$s ساعة</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="memory_byte">Byte</string>
+    <string name="memory_byte_shorthand">B</string>
+    <string name="memory_exabyte">EB</string>
+    <string name="memory_formatted">%1$s %2$s</string>
+    <string name="memory_gigabyte">GB</string>
+    <string name="memory_kilobyte">KB</string>
+    <string name="memory_megabyte">MB</string>
+    <string name="memory_petabyte">PB</string>
+    <string name="memory_terabyte">TB</string>
+    <string name="mii_edit_applet">تحرير Mii</string>
+    <string name="mii_edit_applet_description">باستخدام محرر النظام Miis عرض وتحرير</string>
+    <string name="mods_and_cheats">تعديل وغش</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_cancel">إلغاء</string>
+    <string name="mtrl_picker_confirm">حسنًا</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="mtrl_timepicker_cancel">إلغاء</string>
+    <string name="mtrl_timepicker_confirm">حسنًا</string>
+    <string name="multiplier_eight">8x</string>
+    <string name="multiplier_four">4x</string>
+    <string name="multiplier_sixteen">16x</string>
+    <string name="multiplier_two">2x</string>
+    <string name="mute">كتم</string>
+    <string name="nav_app_bar_navigate_up_description">التنقل إلى أعلى</string>
+    <string name="nav_app_bar_open_drawer_description">فتح لائحة التنقل</string>
+    <string name="next">التالي</string>
+    <string name="no_file_manager">لم يتم العثور على مدير الملفات</string>
+    <string name="no_game_present">لا توجد لعبة قابلة للتمهيد</string>
+    <string name="no_manual_installation">لا يوجد التثبيت اليدوي</string>
+    <string name="no_save_data_found">لم يتم العثور على بيانات الحفظ</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="notice">إشعار</string>
+    <string name="notice_notification_channel_description">اظهار اشعار عند حصول اي مشكلة.</string>
+    <string name="notice_notification_channel_name">الإشعارات والأخطاء</string>
+    <string name="notification_no_directory_link">لا يمكن فتح مجلد يوزو</string>
+    <string name="notification_no_directory_link_description">الرجاء تحديد موقع مجلد المستخدم باستخدام اللوحة الجانبية لمدير الملفات يدويًا</string>
+    <string name="notification_permission_not_granted">لم يتم منح إذن الإشعار</string>
+    <string name="notification_warning">تخطي منح إذن الإشعارات؟</string>
+    <string name="notification_warning_description">لن يتمكن يوزو من إشعارك بالمعلومات المهمة</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="notifications_description">امنح إذن الإشعار باستخدام الزر أدناه</string>
+    <string name="open_user_folder">فتح مجلد يوزو</string>
+    <string name="open_user_folder_description">إدارة ملفات يوزو الداخلية</string>
+    <string name="our_eternal_gratitude">امتناننا الأبدي</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="path">المسار</string>
+    <string name="pause">توقف</string>
+    <string name="per_game_settings">إعدادات كل لعبة</string>
+    <string name="per_game_settings_description">تحرير الإعدادات الخاصة بهذه اللعبة</string>
+    <string name="performance_warning">سيؤدي إيقاف تشغيل هذا الإعداد إلى تقليل أداء المحاكاة بشكل ملحوظ! للحصول على أفضل تجربة، يوصى بترك هذا الإعداد ممكنًا.</string>
+    <string name="permission_denied">تم رفض الإذن</string>
+    <string name="permission_denied_description">لقد رفضت هذا الإذن عدة مرات ويتعين عليك الآن منحه يدويًا في إعدادات النظام</string>
+    <string name="picture_in_picture">صورة داخل صورة</string>
+    <string name="picture_in_picture_description">تصغير النافذة عند وضعها في الخلفية</string>
+    <string name="play">تشغيل</string>
+    <string name="play_store_link">https://play.google.com/store/apps/details?id=org.Ziunx_emu.ea</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
+    <string name="preferences_audio">الصوت</string>
+    <string name="preferences_audio_description">محرك الإخراج ، حجم الصوت</string>
+    <string name="preferences_debug">تصحيح الأخطاء</string>
+    <string name="preferences_general">عام</string>
+    <string name="preferences_graphics">الرسومات</string>
+    <string name="preferences_graphics_description">مستوى الدقة ،الدقة ،ذاكرة التخزين المؤقت للتظليل</string>
+    <string name="preferences_settings">إعدادات</string>
+    <string name="preferences_system">النظام</string>
+    <string name="preferences_system_description">وضع الإرساء ،المنطقة ،اللغة</string>
+    <string name="preferences_theme">السمة واللون</string>
+    <string name="preparing_shaders">تحضير التظليل</string>
+    <string name="prioritized_support">الدعم ذو الأولوية</string>
+    <string name="program_id">معرف البرنامج</string>
+    <string name="ratio_default">(16:9) افتراضي</string>
+    <string name="ratio_force_four_three">4:3 فرض</string>
+    <string name="ratio_force_sixteen_ten">16:10 فرض</string>
+    <string name="ratio_force_twenty_one_nine">21:9 فرض</string>
+    <string name="ratio_stretch">تمتد إلى النافذة</string>
+    <string name="reading_keys_failure">خطأ في قراءة مفاتيح التشفير</string>
+    <string name="region_australia">أستراليا</string>
+    <string name="region_china">الصين</string>
+    <string name="region_europe">أوروبا</string>
+    <string name="region_japan">اليابان</string>
+    <string name="region_korea">كوريا</string>
+    <string name="region_taiwan">تايوان</string>
+    <string name="region_usa">الولايات المتحدة الأمريكية</string>
+    <string name="renderer_accuracy">مستوى الدقة</string>
+    <string name="renderer_accuracy_extreme">Extreme (بطيء)</string>
+    <string name="renderer_accuracy_high">عالي</string>
+    <string name="renderer_accuracy_normal">عادي</string>
+    <string name="renderer_anti_aliasing">طريقة مكافحة التعرج</string>
+    <string name="renderer_api">واجهة برمجة التطبيقات</string>
+    <string name="renderer_aspect_ratio">تناسب الابعاد</string>
+    <string name="renderer_asynchronous_shaders">استخدم تظليل غير متزامن</string>
+    <string name="renderer_asynchronous_shaders_description">يجمع التظليل بشكل غير متزامن، مما يقلل من التأتأة ولكنه قد يؤدي إلى حدوث بعض الأخطاء.</string>
+    <string name="renderer_debug">تصحيح الأخطاء الرسومية</string>
+    <string name="renderer_debug_description">يضبط واجهة برمجة تطبيقات الرسومات على وضع تصحيح الأخطاء البطيء.</string>
+    <string name="renderer_none">لاشيء</string>
+    <string name="renderer_reactive_flushing">استخدم التنظيف التفاعلي</string>
+    <string name="renderer_reactive_flushing_description">تحسين دقة العرض في بعض الألعاب على حساب الأداء</string>
+    <string name="renderer_resolution">(Handheld/Docked) الدقة</string>
+    <string name="renderer_screen_layout">اتجاه العرض</string>
+    <string name="renderer_vsync">VSync وضع</string>
+    <string name="renderer_vsync_fifo">FIFO (On)</string>
+    <string name="renderer_vsync_fifo_relaxed">FIFO Relaxed</string>
+    <string name="renderer_vsync_immediate">Immediate (Off)</string>
+    <string name="renderer_vsync_mailbox">Mailbox</string>
+    <string name="renderer_vulkan">Vulkan</string>
+    <string name="reset_all_settings">إعادة تعيين جميع الإعدادات؟</string>
+    <string name="reset_all_settings_description">سيتم إعادة تعيين كافة الإعدادات المتقدمة إلى تكوينها الافتراضي. هذا لا يمكن التراجع عنها.</string>
+    <string name="reset_setting_confirmation">هل تريد إعادة تعيين هذا الإعداد مرة أخرى إلى قيمته الافتراضية؟</string>
+    <string name="reset_to_default">إعادة التعيين إلى الوضع الافتراضي</string>
+    <string name="reset_to_default_description">إعادة تعيين جميع الإعدادات المتقدمة</string>
+    <string name="resolution_four">8X (3880p/6320p) (بطيء💀)</string>
+    <string name="resolution_half">0.4X (310p/520p) (low end end )</string>
+    <string name="resolution_one">1X (720p/1080p) (normal)</string>
+    <string name="resolution_three">4X (2880p/3240p) (بطيء)</string>
+    <string name="resolution_three_quarter">0.75X (540p/810p) (low )</string>
+    <string name="resolution_two">2X (1440p/2160p) (بطيء)</string>
+    <string name="save_data">حفظ البيانات</string>
+    <string name="save_data_deleted_successfully">حفظ البيانات تم حذفها بنجاح</string>
+    <string name="save_data_description">إدارة حفظ البيانات الخاصة بهذه اللعبة</string>
+    <string name="save_file_imported_success">تم الاستيراد بنجاح</string>
+    <string name="save_file_invalid_zip_structure">بنية مجلد الحفظ غير صالحة</string>
+    <string name="save_file_invalid_zip_structure_description">يجب أن يكون اسم المجلد الفرعي الأول هو معرف عنوان اللعبة.</string>
+    <string name="save_files_exporting">جاري تصدير ملفات الحفظ</string>
+    <string name="save_files_importing">جاري استيراد ملفات الحفظ</string>
+    <string name="save_load_error">خطأ في الحفظ/التحميل</string>
+    <string name="scaling_filter_bicubic">Bicubic</string>
+    <string name="scaling_filter_bilinear">Bilinear</string>
+    <string name="scaling_filter_fsr">AMD FidelityFX™ Super Resolution</string>
+    <string name="scaling_filter_gaussian">Gaussian</string>
+    <string name="scaling_filter_nearest_neighbor">Nearest Neighbor</string>
+    <string name="scaling_filter_scale_force">ScaleForce</string>
+    <string name="screen_layout_auto">تلقائي</string>
+    <string name="screen_layout_landscape">أفقي</string>
+    <string name="screen_layout_portrait">عمودي</string>
+    <string name="search_and_filter_games">البحث وتصفية الألعاب</string>
+    <string name="search_homebrew">البيرة المنزلية</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="search_recently_added">أضيف مؤخرا</string>
+    <string name="search_recently_played">لعبت مؤخرا</string>
+    <string name="search_retail">بيع بالتجزئة</string>
+    <string name="search_settings">إعدادات البحث</string>
+    <string name="select_content_type">نوع المحتوى</string>
+    <string name="select_games_folder">حدد مجلد الألعاب</string>
+    <string name="select_games_folder_description">يسمح لـ يوزو بملء قائمة الألعاب</string>
+    <string name="select_gpu_driver">GPU حدد برنامج تشغيل</string>
+    <string name="select_gpu_driver_default">افتراضي</string>
+    <string name="select_gpu_driver_error">تم تحديد برنامج تشغيل غير صالح</string>
+    <string name="select_gpu_driver_install">تثبيت</string>
+    <string name="select_gpu_driver_title">الحالي الخاص بك؟ GPU هل ترغب في استبدال برنامج تشغيل</string>
+    <string name="select_gpu_driver_use_default">يستخدم تعريف معالج الرسومات الافتراضي</string>
+    <string name="select_keys">إختيار المفاتيح</string>
+    <string name="select_rtc_date">حدد التاريخ و الساعة في الوقت الحقيقي</string>
+    <string name="select_rtc_time">حدد وقت الساعة في الوقت الفعلي</string>
+    <string name="set_custom_rtc">تعيين ساعة مخصصة في الوقت الحقيقي</string>
+    <string name="settings_description">تكوين إعدادات المحاكي</string>
+    <string name="settings_reset">إعادة تعيين الأعدادات</string>
+    <string name="share_log">مشاركة سجلات التصحيح</string>
+    <string name="share_log_description">مشاركة ملف سجل يوزو لتصحيح المشكلات</string>
+    <string name="share_log_missing">لم يتم العثور على ملف السجل</string>
+    <string name="share_save_file">مشاركة ملف الحفظ</string>
+    <string name="shutting_down">إيقاف التشغيل</string>
+    <string name="slider_default">افتراضي</string>
+    <string name="software_keyboard">لوحة المفاتيح البرمجية</string>
+    <string name="start">Start</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="step_complete">مكتمل</string>
+    <string name="string_import">استيراد</string>
+    <string name="string_null">لا شيء</string>
+    <string name="submit">إرسال</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="support_link">https://discord.gg/u77vRWY</string>
+    <string name="system_archive_general">أرشيف النظام</string>
+    <string name="system_archive_not_found">لم يتم العثور على أرشيف النظام</string>
+    <string name="system_gpu_driver">تعريف معالج الرسومات الخاص بالنظام</string>
+    <string name="text_continue">استمر</string>
+    <string name="theme_and_color_description">تعديل مظهر التطبيق</string>
+    <string name="theme_default">افتراضي</string>
+    <string name="theme_material_you">Material You</string>
+    <string name="theme_mode_dark">داكن</string>
+    <string name="theme_mode_follow_system">اتبع النظام</string>
+    <string name="theme_mode_light">فاتح</string>
+    <string name="touchscreen">شاشة اللمس</string>
+    <string name="unimplemented_menu">القائمة غير المنفذة</string>
+    <string name="unmute">إلغاء الكتم</string>
+    <string name="updates_and_dlc">DLC التحديثات والمحتوى القابل للتنزيل</string>
+    <string name="use_black_backgrounds">خلفيات سوداء</string>
+    <string name="use_black_backgrounds_description">عند استخدام المظهر الداكن، قم بتطبيق خلفيات سوداء.</string>
+    <string name="use_custom_rtc">ساعة مخصصة في الوقت الحقيقي</string>
+    <string name="use_custom_rtc_description">يسمح لك بتعيين ساعة مخصصة في الوقت الفعلي منفصلة عن وقت النظام الحالي لديك</string>
+    <string name="use_disk_shader_cache_description">يقلل من التأتأة عن طريق تخزين وتحميل التظليلات التي تم إنشاؤها محليًا.</string>
+    <string name="use_docked_mode">وضع الإرساء</string>
+    <string name="use_docked_mode_description">زيادة الدقة، وانخفاض الأداء. يتم استخدام الوضع المحمول عند تعطيله، مما يؤدي إلى خفض الدقة وزيادة الأداء.</string>
+    <string name="user_data">بيانات المستخدم</string>
+    <string name="user_data_description">استيراد/تصدير جميع بيانات التطبيق. عند استيراد بيانات المستخدم، سيتم حذف جميع بيانات المستخدم الحالية!</string>
+    <string name="user_data_export_cancelled">تم إلغاء التصدير</string>
+    <string name="user_data_export_success">تم تصدير بيانات المستخدم بنجاح</string>
+    <string name="user_data_import_success">تم استيراد بيانات المستخدم بنجاح</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">مفعّلة</string>
+    <string name="value_with_units">%1$s%2$s</string>
+    <string name="verifying_content">جاري التحقق من المحتوى</string>
+    <string name="version">إصدار</string>
+    <string name="warning_cancel">إلغاء</string>
+    <string name="warning_help">مساعدة</string>
+    <string name="warning_skip">تخطي</string>
+    <string name="website_link">https://Ziunx-emu.org/</string>
+    <string name="welcome">مرحبا</string>
+    <string name="welcome_description">تعرف على كيفية إعداد زيونكس  والانتقال إلى المحاكاة</string>
+</resources>

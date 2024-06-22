@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/invert_axis"
+        android:visible="false"
+        android:title="@string/invert_axis"/>
+    <item
+        android:id="@+id/invert_button"
+        android:visible="false"
+        android:title="@string/invert_button"/>
+    <item
+        android:id="@+id/toggle_button"
+        android:visible="false"
+        android:title="@string/toggle_button"/>
+    <item
+        android:id="@+id/turbo_button"
+        android:visible="false"
+        android:title="@string/turbo_button"/>
+    <item
+        android:id="@+id/set_threshold"
+        android:visible="false"
+        android:title="@string/set_threshold"/>
+    <item
+        android:id="@+id/toggle_axis"
+        android:visible="false"
+        android:title="@string/toggle_axis"/>
+</menu>

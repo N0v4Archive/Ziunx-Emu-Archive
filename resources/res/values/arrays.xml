@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="anisoEntries">
+        <item>@string/auto</item>
+        <item>@string/slider_default</item>
+        <item>@string/multiplier_two</item>
+        <item>@string/multiplier_four</item>
+        <item>@string/multiplier_eight</item>
+        <item>@string/multiplier_sixteen</item>
+    </array>
+    <array name="anisoValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+    <array name="cpuAccuracyNames">
+        <item>@string/auto</item>
+        <item>@string/cpu_accuracy_accurate</item>
+        <item>@string/cpu_accuracy_unsafe</item>
+        <item>@string/cpu_accuracy_paranoid</item>
+    </array>
+    <array name="cpuAccuracyValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="cpuBackendArm64Names">
+        <item>@string/cpu_backend_dynarmic</item>
+        <item>@string/cpu_backend_nce</item>
+    </array>
+    <array name="cpuBackendArm64Values">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="cpuBackendX86Names">
+        <item>@string/cpu_backend_dynarmic</item>
+    </array>
+    <array name="cpuBackendX86Values">
+        <item>0</item>
+    </array>
+    <array name="gamepadButtons">
+        <item>A</item>
+        <item>B</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>+</item>
+        <item>-</item>
+        <item>@string/gamepad_home</item>
+        <item>@string/gamepad_screenshot</item>
+        <item>L</item>
+        <item>R</item>
+        <item>ZL</item>
+        <item>ZR</item>
+        <item>L3</item>
+        <item>R3</item>
+        <item>@string/gamepad_left_stick</item>
+        <item>@string/gamepad_right_stick</item>
+        <item>@string/gamepad_d_pad</item>
+    </array>
+    <array name="languageNames">
+        <item>@string/language_brazilian_portuguese</item>
+        <item>@string/language_british_english</item>
+        <item>@string/language_canadian_french</item>
+        <item>@string/language_chinese</item>
+        <item>@string/language_dutch</item>
+        <item>@string/language_english</item>
+        <item>@string/language_french</item>
+        <item>@string/language_german</item>
+        <item>@string/language_italian</item>
+        <item>@string/language_japanese</item>
+        <item>@string/language_korean</item>
+        <item>@string/language_latin_american_spanish</item>
+        <item>@string/language_portuguese</item>
+        <item>@string/language_russian</item>
+        <item>@string/language_simplified_chinese</item>
+        <item>@string/language_spanish</item>
+        <item>@string/language_taiwanese</item>
+        <item>@string/language_traditional_chinese</item>
+    </array>
+    <array name="languageValues">
+        <item>17</item>
+        <item>12</item>
+        <item>13</item>
+        <item>6</item>
+        <item>8</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>0</item>
+        <item>7</item>
+        <item>14</item>
+        <item>9</item>
+        <item>10</item>
+        <item>15</item>
+        <item>5</item>
+        <item>11</item>
+        <item>16</item>
+    </array>
+    <array name="outputEngineEntries">
+        <item>@string/auto</item>
+        <item>@string/oboe</item>
+        <item>@string/cubeb</item>
+        <item>@string/string_null</item>
+    </array>
+    <array name="outputEngineValues">
+        <item>0</item>
+        <item>4</item>
+        <item>1</item>
+        <item>3</item>
+    </array>
+    <array name="regionNames">
+        <item>@string/region_australia</item>
+        <item>@string/region_china</item>
+        <item>@string/region_europe</item>
+        <item>@string/region_japan</item>
+        <item>@string/region_korea</item>
+        <item>@string/region_taiwan</item>
+        <item>@string/region_usa</item>
+    </array>
+    <array name="regionValues">
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>0</item>
+        <item>5</item>
+        <item>6</item>
+        <item>1</item>
+    </array>
+    <array name="rendererAccuracyNames">
+        <item>@string/renderer_accuracy_normal</item>
+        <item>@string/renderer_accuracy_high</item>
+        <item>@string/renderer_accuracy_extreme</item>
+    </array>
+    <array name="rendererAccuracyValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="rendererAntiAliasingNames">
+        <item>@string/anti_aliasing_none</item>
+        <item>@string/anti_aliasing_fxaa</item>
+        <item>@string/anti_aliasing_smaa</item>
+    </array>
+    <array name="rendererAntiAliasingValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="rendererApiNames">
+        <item>@string/renderer_vulkan</item>
+        <item>@string/renderer_none</item>
+    </array>
+    <array name="rendererApiValues">
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="rendererAspectRatioNames">
+        <item>@string/ratio_default</item>
+        <item>@string/ratio_force_four_three</item>
+        <item>@string/ratio_force_twenty_one_nine</item>
+        <item>@string/ratio_force_sixteen_ten</item>
+        <item>@string/ratio_stretch</item>
+    </array>
+    <array name="rendererAspectRatioValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="rendererResolutionNames">
+        <item>@string/resolution_half</item>
+        <item>@string/resolution_three_quarter</item>
+        <item>@string/resolution_one</item>
+        <item>@string/resolution_two</item>
+        <item>@string/resolution_three</item>
+        <item>@string/resolution_four</item>
+    </array>
+    <array name="rendererResolutionValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+    <array name="rendererScalingFilterNames">
+        <item>@string/scaling_filter_nearest_neighbor</item>
+        <item>@string/scaling_filter_bilinear</item>
+        <item>@string/scaling_filter_bicubic</item>
+        <item>@string/scaling_filter_gaussian</item>
+        <item>@string/scaling_filter_scale_force</item>
+        <item>@string/scaling_filter_fsr</item>
+    </array>
+    <array name="rendererScalingFilterValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </array>
+    <array name="rendererScreenLayoutNames">
+        <item>@string/screen_layout_auto</item>
+        <item>@string/screen_layout_sensor_landscape</item>
+        <item>@string/screen_layout_landscape</item>
+        <item>@string/screen_layout_reverse_landscape</item>
+        <item>@string/screen_layout_sensor_portrait</item>
+        <item>@string/screen_layout_portrait</item>
+        <item>@string/screen_layout_reverse_portrait</item>
+    </array>
+    <array name="rendererScreenLayoutValues">
+        <item>0</item>
+        <item>5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>4</item>
+        <item>3</item>
+    </array>
+    <array name="rendererVSyncNames">
+        <item>@string/renderer_vsync_immediate</item>
+        <item>@string/renderer_vsync_mailbox</item>
+        <item>@string/renderer_vsync_fifo</item>
+        <item>@string/renderer_vsync_fifo_relaxed</item>
+    </array>
+    <array name="rendererVSyncValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="themeEntries">
+        <item>@string/theme_default</item>
+    </array>
+    <array name="themeEntriesA12">
+        <item>@string/theme_default</item>
+        <item>@string/theme_material_you</item>
+    </array>
+    <array name="themeModeEntries">
+        <item>@string/theme_mode_follow_system</item>
+        <item>@string/theme_mode_light</item>
+        <item>@string/theme_mode_dark</item>
+    </array>
+    <array name="themeModeValues">
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="themeValues">
+        <item>0</item>
+    </array>
+    <array name="themeValuesA12">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="verticalAlignmentEntries">
+        <item>@string/top</item>
+        <item>@string/center</item>
+        <item>@string/bottom</item>
+    </array>
+    <array name="verticalAlignmentValues">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </array>
+</resources>

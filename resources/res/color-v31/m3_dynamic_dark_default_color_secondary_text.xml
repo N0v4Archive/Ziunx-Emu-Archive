@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false"
+        android:color="@color/m3_sys_color_dynamic_dark_inverse_on_surface"
+        android:alpha="@dimen/m3_sys_elevation_level3"/>
+    <item android:color="@color/m3_sys_color_dynamic_dark_inverse_primary"/>
+</selector>

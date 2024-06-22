@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">새 알림 %d개</item>
+        <item quantity="other">새 알림 %d개</item>
+    </plurals>
+    <plurals name="saves_import_failed">
+        <item quantity="other">%d개의 세이브 가져오기 실패</item>
+    </plurals>
+    <plurals name="saves_import_success">
+        <item quantity="other">%d개의 세이브를 가져왔습니다.</item>
+    </plurals>
+</resources>

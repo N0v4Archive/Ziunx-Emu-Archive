@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="161.61dp"
+    android:width="161.61dp"
+    android:alpha="0.6"
+    android:viewportWidth="161.61"
+    android:viewportHeight="161.61">
+    <path
+        android:fillColor="@drawable/res_0x7f080028_joystick__0"
+        android:pathData="M91.23,0.68a80.8,80.8 0,1 0,69.69 90.55A80.81,80.81 0,0 0,91.23 0.68ZM80.8,150.68A69.84,69.84 0,1 1,150.64 80.8,69.92 69.92,0 0,1 80.8,150.64Z"
+        android:strokeAlpha="0.8"
+        android:fillAlpha="0.8"/>
+    <path
+        android:fillColor="@drawable/res_0x7f080029_joystick__1"
+        android:pathData="M80.8,80.8m-67.05,0a67.05,67.05 0,1 1,134.1 0a67.05,67.05 0,1 1,-134.1 0"
+        android:strokeAlpha="0.8"
+        android:fillAlpha="0.8"/>
+    <path
+        android:fillColor="@drawable/res_0x7f08002a_joystick__2"
+        android:pathData="M80.8,150.64A69.84,69.84 0,1 1,150.64 80.8,69.92 69.92,0 0,1 80.8,150.64ZM80.8,13.76a67,67 0,1 0,67.05 67A67.11,67.11 0,0 0,80.8 13.76Z"
+        android:strokeAlpha="0.8"
+        android:fillAlpha="0.8"/>
+</vector>

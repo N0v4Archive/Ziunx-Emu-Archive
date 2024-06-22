@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/selector_cartridge"
+        android:id="@+id/gamesFragment"
+        android:title="@string/home_games"/>
+    <item
+        android:icon="@drawable/ic_search"
+        android:id="@+id/searchFragment"
+        android:title="@string/home_search"/>
+    <item
+        android:icon="@drawable/selector_settings"
+        android:id="@+id/homeSettingsFragment"
+        android:title="@string/home_settings"/>
+</menu>

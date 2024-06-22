@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notificación nueva</item>
+        <item quantity="other">%d notificaciones nuevas</item>
+    </plurals>
+    <plurals name="saves_import_failed">
+        <item quantity="one">No se ha podido importar %d archivo de guardado.</item>
+        <item quantity="many">No se han podido importar %d archivos de guardado.</item>
+        <item quantity="other">No se han podido importar %d archivos de guardado.</item>
+    </plurals>
+    <plurals name="saves_import_success">
+        <item quantity="one">%d archivo de guardado importado con éxito.</item>
+        <item quantity="many">%d archivos de guardado importados con éxito.</item>
+        <item quantity="other">%d archivos de guardado importados con éxito.</item>
+    </plurals>
+</resources>

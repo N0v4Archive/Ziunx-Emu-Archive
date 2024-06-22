@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="saves_import_failed">
+        <item quantity="other">Gagal mengimpor %d simpanan.</item>
+    </plurals>
+    <plurals name="saves_import_success">
+        <item quantity="other">Berhasil mengimpor %d simpanan.</item>
+    </plurals>
+</resources>
