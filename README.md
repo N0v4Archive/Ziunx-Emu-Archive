@@ -1,4 +1,4 @@
-# Zinux
+# Ziunx
 
 ![avatar-1002230708288](https://github.com/ahmedbarakat2007/Zinux-Emu/assets/118398763/9ac1a5ca-bc6e-4753-a0cd-014528d04dae)
 
