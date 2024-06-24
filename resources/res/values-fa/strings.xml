@@ -122,7 +122,7 @@
     <string name="content_install_notice_description">محتوایی که انتخاب کردید با این بازی مطابقت ندارد.\nبه هر حال نصب شود؟</string>
     <string name="continue_button">ادامه</string>
     <string name="contributors">مشارکت کنندگان</string>
-    <string name="contributors_description">Emulator developers telegram \n@FreePalestine203 \n@OneGuy\n@ahmedbarakat2007 \n@cristopher Andres\n@SPARCKMISERY</string>
+    <string name="contributors_description">Emulator developers telegram \n@FreePalestine203 \n@豆豆\n@ahmedbarakat2007\n@cristopher Andres</string>
     <string name="contributors_link">https://github.com/Zinux-emu/Ziunx/graphs/contributors</string>
     <string name="controller_type">نوع کنترلر</string>
     <string name="copied_to_clipboard">در کلیپ‌بورد کپی شد</string>
@@ -478,11 +478,11 @@
     <string name="reset_setting_confirmation">آیا می‌خواهید این تنظیم را به مقدار پیش‌فرض خود بازنشانی کنید؟</string>
     <string name="reset_to_default">بازنشانی به پیش‌فرض</string>
     <string name="reset_to_default_description">بازنشانی کل تنظیمات پیشرفته</string>
-    <string name="resolution_four">8X (3880p/6320p) (کند)</string>
-    <string name="resolution_half">0.4X (310p/520p) (low end end )</string>
-    <string name="resolution_one">1X (720p/1080p) (normal)</string>
-    <string name="resolution_three">4X (2880p/4320p) (کند)</string>
-    <string name="resolution_three_quarter">0.75X (540p/810p) (low )</string>
+    <string name="resolution_four">4X (2880p/4320p) (کند)</string>
+    <string name="resolution_half">0.25X (300p/500p) (16bit😶‍🌫️)</string>
+    <string name="resolution_one">0.50X (700p/1000p) (normal - ) </string>
+    <string name="resolution_three">3X (2160p/3240p) (کند)</string>
+    <string name="resolution_three_quarter">0.70X (520p/790p) (low low)</string>
     <string name="resolution_two">2X (1440p/2160p) (کند)</string>
     <string name="right">راست</string>
     <string name="right_joycon">Joycon راست</string>

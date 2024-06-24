@@ -43,8 +43,8 @@
     <string name="addon_notice">Important addon notice</string>
     <string name="addon_notice_description">In order to install mods and cheats, you must select a folder that contains a cheats/, romfs/, or exefs/ directory. We can\'t verify if these will be compatible with your game so be careful!</string>
     <string name="addons_game">Addons: %1$s</string>
-    <string name="advanced_settings">Advanced settings</string>
-    <string name="advanced_settings_game">Advanced settings: %1$s</string>
+    <string name="advanced_settings">settings 👾</string>
+    <string name="advanced_settings_game">settings: %1$s</string>
     <string name="album_applet">Album</string>
     <string name="album_applet_description">See images stored in the user screenshots folder with the system photo viewer</string>
     <string name="androidx_startup">androidx.startup</string>
@@ -136,7 +136,7 @@
     <string name="content_install_notice_description">The content that you selected does not match this game.\nInstall anyway?</string>
     <string name="continue_button">Continue</string>
     <string name="contributors">Contributors</string>
-    <string name="contributors_description">Emulator developers telegram \n@FreePalestine203 \n@OneGuy\n@ahmedbarakat2007 \n@cristopher Andres\n@SPARCKMISERY</string>
+    <string name="contributors_description">Emulator developers telegram \n@FreePalestine203 \n@豆豆\n@ahmedbarakat2007\n@cristopher Andres</string>
     <string name="contributors_link">https://github.com/Zinux-emu/Ziunx/graphs/contributors</string>
     <string name="control_stick">Control stick</string>
     <string name="controller_type">Controller type</string>
@@ -272,7 +272,7 @@
     <string name="importing_user_data">Importing user data…</string>
     <string name="info">Info</string>
     <string name="info_description">Program ID, developer, version</string>
-    <string name="ini_saved">Saved settings</string>
+    <string name="ini_saved">Saved settings 🤝</string>
     <string name="input_mapping_filter">Input mapping filter</string>
     <string name="input_mapping_filter_description">Select a device to filter mapping inputs</string>
     <string name="input_overlay">Input overlay</string>
@@ -382,7 +382,7 @@
     <string name="licenses">Licenses</string>
     <string name="licenses_description">Projects that make Ziunx for Android possible</string>
     <string name="load">Load</string>
-    <string name="load_settings">Loading settings…</string>
+    <string name="load_settings">Loading settings ! (wait)</string>
     <string name="loader_error_encrypted">Your ROM is encrypted</string>
     <string name="loader_error_encrypted_keys_description">Please ensure your &lt;a href=https://Ziunx-emu.org/help/quickstart/#dumping-prodkeys-and-titlekeys&gt;prod.keys&lt;/a&gt; file is installed so that games can be decrypted.</string>
     <string name="loader_error_encrypted_roms_description">Please follow the guides to redump your &lt;a href=https:/Ziunx.oge/help/quickstart/#dumping-physical-titles-game-cards&gt;game cartidges&lt;/a&gt; or &lt;a href=https://Ziunx-emu.org/help/quickstart/#dumping-digital-titles-eshop&gt;installed titles&lt;/a&gt;.</string>
@@ -624,18 +624,18 @@
     <string name="renderer_vsync_immediate">Immediate (Off)</string>
     <string name="renderer_vsync_mailbox">Mailbox</string>
     <string name="renderer_vulkan">Vulkan</string>
-    <string name="reset_all_settings">Reset all settings?</string>
+    <string name="reset_all_settings">Reset all settings? :)</string>
     <string name="reset_all_settings_description">All advanced settings will be reset to their default configuration. This can not be undone.</string>
     <string name="reset_mapping">Reset mappings</string>
     <string name="reset_mapping_description">Are you sure that you want to reset all mappings for this controller to default? This cannot be undone.</string>
     <string name="reset_setting_confirmation">Do you want to reset this setting back to its default value?</string>
     <string name="reset_to_default">Reset to default</string>
     <string name="reset_to_default_description">Resets all advanced settings</string>
-    <string name="resolution_four">8X (3880p/6320p) (Slow💀)</string>
-    <string name="resolution_half">0.4X (310p/520p) (low end end )</string>
-    <string name="resolution_one">1X (720p/1080p) (normal)</string>
-    <string name="resolution_three">4X (2880p/4320p) (Slow)</string>
-    <string name="resolution_three_quarter">0.75X (540p/810p) (low )</string>
+    <string name="resolution_four">4X (2880p/4320p) (Slow)</string>
+    <string name="resolution_half">0.25X (300p/500p) (16bit😶‍🌫️)</string>
+    <string name="resolution_one">0.50X (700p/1000p) (normal - ) </string>
+    <string name="resolution_three">3X (2160p/3240p) (Slow)</string>
+    <string name="resolution_three_quarter">0.70X (520p/790p) (low low)</string>
     <string name="resolution_two">2X (1440p/2160p) (Slow)</string>
     <string name="retry">Retry</string>
     <string name="right">Right</string>
@@ -670,7 +670,7 @@
     <string name="search_recently_added">Recently added</string>
     <string name="search_recently_played">Recently played</string>
     <string name="search_retail">Retail</string>
-    <string name="search_settings">Search settings</string>
+    <string name="search_settings">Search settings !</string>
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
     <string name="searchview_clear_text_content_description">Clear text</string>
     <string name="searchview_navigation_content_description">Back</string>

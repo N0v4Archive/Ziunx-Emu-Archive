@@ -116,8 +116,7 @@ public abstract class Util {
         };
     }
 
-    /* JADX INFO: Access modifiers changed from: private */
-    /* renamed from: asFactory$lambda-8, reason: not valid java name */
+    /* renamed from: asFactory$lambda-8 */
     public static final EventListener m82asFactory$lambda8(EventListener this_asFactory, Call it) {
         Intrinsics.checkNotNullParameter(this_asFactory, "$this_asFactory");
         Intrinsics.checkNotNullParameter(it, "it");
@@ -521,8 +520,7 @@ public abstract class Util {
         };
     }
 
-    /* JADX INFO: Access modifiers changed from: private */
-    /* renamed from: threadFactory$lambda-1, reason: not valid java name */
+    /* renamed from: threadFactory$lambda-1 */
     public static final Thread m83threadFactory$lambda1(String name, boolean z, Runnable runnable) {
         Intrinsics.checkNotNullParameter(name, "$name");
         Thread thread = new Thread(runnable, name);

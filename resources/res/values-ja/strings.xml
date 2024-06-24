@@ -400,10 +400,10 @@
     <string name="reset_setting_confirmation">この設定を初期値にリセットしますか?</string>
     <string name="reset_to_default">初期設定に戻す</string>
     <string name="resolution_four">4X (2880p/4320p) (低速)</string>
-    <string name="resolution_half">0.4X (310p/520p) (low end end )</string>
-    <string name="resolution_one">1X (720p/1080p) (normal)</string>
+    <string name="resolution_half">0.25X (300p/500p) (16bit😶‍🌫️)</string>
+    <string name="resolution_one">0.50X (700p/1000p) (normal - ) </string>
     <string name="resolution_three">3X (2160p/3240p) (低速)</string>
-    <string name="resolution_three_quarter">0.75X (540p/810p) (low )</string>
+    <string name="resolution_three_quarter">0.70X (520p/790p) (low low)</string>
     <string name="resolution_two">2X (1440p/2160p) (低速)</string>
     <string name="right">右</string>
     <string name="right_joycon">Joy-Con(R)</string>

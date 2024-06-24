@@ -3,6 +3,6 @@
     <item
         android:icon="@drawable/ic_search"
         android:id="@+id/action_search"
-        android:title="@string/home_search"
+        android:title="#FF0000FF"
         app:showAsAction="always"/>
 </menu>

@@ -401,11 +401,11 @@
     <string name="reset_setting_confirmation">هل تريد إعادة تعيين هذا الإعداد مرة أخرى إلى قيمته الافتراضية؟</string>
     <string name="reset_to_default">إعادة التعيين إلى الوضع الافتراضي</string>
     <string name="reset_to_default_description">إعادة تعيين جميع الإعدادات المتقدمة</string>
-    <string name="resolution_four">8X (3880p/6320p) (بطيء💀)</string>
-    <string name="resolution_half">0.4X (310p/520p) (low end end )</string>
-    <string name="resolution_one">1X (720p/1080p) (normal)</string>
-    <string name="resolution_three">4X (2880p/3240p) (بطيء)</string>
-    <string name="resolution_three_quarter">0.75X (540p/810p) (low )</string>
+    <string name="resolution_four">4X (2880p/4320p) (بطيء)</string>
+    <string name="resolution_half">0.25X (300p/500p) (16bit😶‍🌫️)</string>
+    <string name="resolution_one">0.50X (700p/1000p) (normal - ) </string>
+    <string name="resolution_three">3X (2160p/3240p) (بطيء)</string>
+    <string name="resolution_three_quarter">0.70X (520p/790p) (low low)</string>
     <string name="resolution_two">2X (1440p/2160p) (بطيء)</string>
     <string name="save_data">حفظ البيانات</string>
     <string name="save_data_deleted_successfully">حفظ البيانات تم حذفها بنجاح</string>

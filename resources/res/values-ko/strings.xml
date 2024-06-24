@@ -471,10 +471,10 @@
     <string name="reset_to_default">기본값으로 재설정</string>
     <string name="reset_to_default_description">모든 고급 설정 초기화</string>
     <string name="resolution_four">4X (2880p/4320p) (느림)</string>
-    <string name="resolution_half">0.4X (310p/520p) (low end end )</string>
-    <string name="resolution_one">1X (720p/1080p) (normal)</string>
+    <string name="resolution_half">0.25X (300p/500p) (16bit😶‍🌫️)</string>
+    <string name="resolution_one">0.50X (700p/1000p) (normal - ) </string>
     <string name="resolution_three">3X (2160p/3240p) (느림)</string>
-    <string name="resolution_three_quarter">0.75X (540p/810p) (low )</string>
+    <string name="resolution_three_quarter">0.70X (520p/790p) (low low)</string>
     <string name="resolution_two">2X (1440p/2160p) (느림)</string>
     <string name="right">오른쪽</string>
     <string name="right_joycon">오른쪽 조이콘</string>

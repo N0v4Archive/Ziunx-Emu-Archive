@@ -1,7 +1,7 @@
 Signature-Version: 1.0
 Created-By: Android Gradle 8.0.2
-SHA-256-Digest-Manifest: 36dAmeKEzLT4l/LixvQDMxI/rhp46q+TsbOyv/I4fA8=
-X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: sSuQtYWLfHVXo9KOwayUWyYYHFs7x4soPDGHC8UegGc=
+X-Android-APK-Signed: 2,3
 
 Name: AndroidManifest.xml
 SHA-256-Digest: voPCwX1GCDqM0TfNNfVfKkZsth8lhSY/lo6p1RLMJbQ=
@@ -221,10 +221,10 @@ Name: META-INF/services/kotlinx.coroutines.internal.MainDispatcherFact
 SHA-256-Digest: CvpiKzNhVHqONkAL//lJVL9QOZGQGXeAZRDX9l7tM4E=
 
 Name: assets/dexopt/baseline.prof
-SHA-256-Digest: YalRGQOx+MIG2toK+cRtwzN0x7rQnnRfMvmBXDnqbsI=
+SHA-256-Digest: LBC5m9tSW4FGCQIUDpCv8nwp9AGX/34nfcCMXnzF+hY=
 
 Name: assets/dexopt/baseline.profm
-SHA-256-Digest: Iwd/9SdwP5/duscB3BbAKOogqsNHX70PCLPMCzowLig=
+SHA-256-Digest: fq8KRO2VfNMq3IE2nKMW1dVi2S4xbyxzqHt40PHHNsQ=
 
 Name: assets/dexopt/clear.frag.spv
 SHA-256-Digest: jRF3sunhr6EKi4etmFhoWHNovxJz5WCi7Wq3vVYvKAU=
@@ -1244,7 +1244,7 @@ Name: res/Lv1.xml
 SHA-256-Digest: sbtUuWQlv0p+KEL6W4TUzCbC5iVjteqwN4kxriViEgM=
 
 Name: res/M-.xml
-SHA-256-Digest: 5HDs4IRTOCZR4TiAZJmRqkbkmZVgstQLHtsmYJwLZS8=
+SHA-256-Digest: md6lK1hHtwr/PAbzZDUfUHBJjTZJo0ypfXywezQ7Mdk=
 
 Name: res/M2.xml
 SHA-256-Digest: TAoDHl4r+HXKcQSA8otFL60gJDK2k1BWJgp3Fyi6lmo=
@@ -1973,9 +1973,6 @@ SHA-256-Digest: BjLc6LkZKWeensPyZt9nVAiUuFdIHGeLuRj6UscShtI=
 
 Name: res/anim/mtrl_card_lowers_interpolator.xml
 SHA-256-Digest: mWCZT16Mc8eHan0/oR4K9vYrRiN/bN4Nl85tRBCLhrA=
-
-Name: res/animator-v21/design_appbar_state_list_animator.xml
-SHA-256-Digest: V3iVKEwLvaAGTBFFGMxAeiKc1RaOm9xoDiv1e3JK/k4=
 
 Name: res/animator/design_fab_hide_motion_spec.xml
 SHA-256-Digest: ZvN+9E2TqALZ+c7+xqfwDRZ65PDJWQW1bb8ldlfsV08=
@@ -3401,7 +3398,7 @@ Name: res/sX.xml
 SHA-256-Digest: bTu3VnOdaKMk4i8MfLyCjQYIYFBgVVggKNBFWCadWuo=
 
 Name: res/sb.xml
-SHA-256-Digest: Ms3otAwX8+hDwNlW769NOQqT23qv43+4cq5DPMW/Bpc=
+SHA-256-Digest: aZWR/Bbii4tN2L6B5gQcIm6+kMxp8YnLJRZqZ3wVo8s=
 
 Name: res/sc.xml
 SHA-256-Digest: HGj+pD0+3uHsozTYpgiEYd9K2rK+VI4iCyedH2Pp5F4=
@@ -3536,7 +3533,7 @@ Name: res/v4.9.png
 SHA-256-Digest: 3x2B3orVHd2hVQTy1lDgC4eIgqepk3qwOe5BaUNnsxU=
 
 Name: res/v5.xml
-SHA-256-Digest: IqaBDXk5K1EzDXZ5FfLokkf8c7jTJLobWKQPU336N3M=
+SHA-256-Digest: 6dultDnaVxaTffXKltEjjmjFM0nvNiR8jzx8Ovmr8+o=
 
 Name: res/v9.xml
 SHA-256-Digest: Hr4WWqWuEm0SdW+730jKaY4gE7xUxNAmY4zE6bmu9sw=
@@ -3686,7 +3683,7 @@ Name: res/yg.9.png
 SHA-256-Digest: ArRY6Ps1HdM1o/JQyqJFYOF3Hd4LB0/ALJZ5bbizeLU=
 
 Name: res/yh.xml
-SHA-256-Digest: erDi/ov3MjNpvz5nKpAdwYklvyvomiotl/b8cHbIzCY=
+SHA-256-Digest: b5R6NO+GVReTfmADN5e7wvLkdjh9V/vgbxj/QJ03f74=
 
 Name: res/yp.xml
 SHA-256-Digest: V6D40wkfWpqPvx89cgy6bYLLoqVSub53uXkSlZPK/wU=
@@ -3695,7 +3692,7 @@ Name: res/z-.9.png
 SHA-256-Digest: uxQm1BnumCR1dbsj/FBNwlX+1eV+s88sj2I/mP1rpVI=
 
 Name: res/z-.xml
-SHA-256-Digest: ao5cNjUTLBPr51t+ScZ3RBR3LGCq8Qdbm8loKo9/isk=
+SHA-256-Digest: 58Oaty8grVxr/3ilPj8vmrI4nCTNt/WvGG6Gnjrb8dw=
 
 Name: res/z9.9.png
 SHA-256-Digest: HSatBZUQDwsjDhyX/txtDssKOBP34/Sg79rzmrMV7mY=
@@ -3704,7 +3701,7 @@ Name: res/zE.png
 SHA-256-Digest: 5QtjamV0mxPTAYFh9U3+J/9TPajgVookP947r5Ul5QE=
 
 Name: res/zG.xml
-SHA-256-Digest: YMaKUb7wM/rzw5F8JGrB/CL83girYtTz6khFIrNSGUc=
+SHA-256-Digest: wim0/JJe/weK1oR8kMR/eGYSpkE1HdcUvMviHgAoqmA=
 
 Name: res/zL.png
 SHA-256-Digest: k+Fj70YV91+oGPxuO4nTYtIG+6p7J9WF8437Vz+zZpA=
@@ -3731,5 +3728,5 @@ Name: res/zz.png
 SHA-256-Digest: Ze2ZjIjVLFH36U2QZLaRo5+y0pc8PN1XPBsihSuzRZ4=
 
 Name: resources.arsc
-SHA-256-Digest: vWprVcSjVZk2r3/WTT7xi+qstTF1L6W3/G0+2AiXl3I=
+SHA-256-Digest: 4W2rsIgybtgnkC3FtHALttbtwA+URRUTAcTTrxqgEg0=
 
