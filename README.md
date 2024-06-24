@@ -18,7 +18,7 @@ Made Primarily by Ali AlSaaid
 
 # Game Benchmark
 
-![ben](https://github.com/ahmedbarakat2007/Ziunx-Emu/assets/118398763/c82165ca-83c2-4b6c-856d-dd986f7d2e52)
+![bench](https://github.com/ahmedbarakat2007/Ziunx-Emu/assets/118398763/0ba2c152-2e01-424d-9a26-44acfcb44521)
 
 # Special Thanks to Yuzu for their Great Work <3
 
