@@ -16,10 +16,9 @@ Made Primarily by Ali AlSaaid
 ![photo1719094739](https://github.com/ahmedbarakat2007/Zinux-Emu/assets/118398763/632a61ac-0ee9-4433-a546-2498a9835aff)
 
 
-
 # Game Benchmark
 
-![ben](https://github.com/ahmedbarakat2007/Zinux-Emu/assets/118398763/75ae3a82-ec44-47da-aa6e-c05b4cfc161f)
+![ben](https://github.com/ahmedbarakat2007/Ziunx-Emu/assets/118398763/c82165ca-83c2-4b6c-856d-dd986f7d2e52)
 
 # Special Thanks to Yuzu for their Great Work <3
 
