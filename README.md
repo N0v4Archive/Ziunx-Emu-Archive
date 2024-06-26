@@ -7,6 +7,13 @@ Telegram Channel : https://t.me/zinux1
 Zinux is a Mod for Yuzu (The Discontinued Nintendo Switch Emulator) Ment to Complete the Development on Yuzu and Give More Performance
 Made Primarily by Ali AlSaaid
 
+# Is There a Virus?
+
+Some rumors and fake chat spreaded telling that Ziunx has a Virus which is completely False, Thousands of People tried it and no devices got Broken or any data go stolen and You Can Check the Telegram Channel that No one Got Effected from Installing the app and I assure you that and the Reason Behind the 2 Risks Detected in VirusTotal Webiste is Because We Use antutu Benchmark and that interfer with VirusTotal but Versions Without antutu like v3.5 Showed Clean Results + I also have no Experiences in Making Viruses Especially in a Virus for Android and There is no Reason for Me to Make a Virus to (Track you, Steal Passwords, etc...) and I Don't Know How to Make Them XD
+
+In Conclusion
+Don't Believe anything you see on internet :)
+
 # ScreenShots
 
 ![s1](https://github.com/ahmedbarakat2007/Zinux-Emu/assets/118398763/02e30a41-40e4-4ed5-b22a-89315acdb932)
