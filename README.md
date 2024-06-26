@@ -16,7 +16,6 @@ Don't Believe anything you see on internet :)
 
 # ScreenShots
 
-![s1](https://github.com/ahmedbarakat2007/Zinux-Emu/assets/118398763/02e30a41-40e4-4ed5-b22a-89315acdb932)
 
 ![ئ2](https://github.com/ahmedbarakat2007/Zinux-Emu/assets/118398763/b23f2230-e66c-4e77-8428-b436e9f776d3)
 
