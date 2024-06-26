@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_0x7f080058_stick_two_direction_anim__0">
-    <target
-        android:name="_R_G_L_0_G_T_1"
-        android:animation="@drawable/res_0x7f080059_stick_two_direction_anim__1"/>
-    <target
-        android:name="time_group"
-        android:animation="@drawable/res_0x7f08005b_stick_two_direction_anim__11"/>
-</animated-vector>
